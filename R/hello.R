@@ -21,3 +21,5 @@ hello <- function() {
 # Github desktop과
 # Github online 을 이해하는 중입니다.
 # 커밋, 푸쉬, 브랜치, 동기화
+
+# 이것은 youngme777@gmail.com 계정의 작업
